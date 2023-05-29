@@ -1,4 +1,6 @@
 # Major_project
-This is my final year project (Major Project ) of Diploma in Computer Technology at S.E.S Polytechnic Solapur
+This is my final year project (Major Project ) of Diploma in Computer Technology at S.E.S Polytechnic Solapur.
 
-This project Title is "Home Automation Using Raspberry PI". Here we use IOT Concept to automate a home model. we simply handel user events using python code and raspberry PI.
+Internet of things is a technology of the future that has already started to touch our homes. Controlling the devices manually is totally outdated in today’s world. In to- day’s busy scheduled life each time human is not available to control devices manually so automation is batter option.
+Now-a-days everything is advanced. The technology is at its peak. Now days mostly everything in our surrounding is being automated. In this project we have de- signed a software in which multiple home appliances are connected and controlled by the mobile by means of internet.
+In which if a particular appliance is left in looking state we can access and switch off it from anywhere in the world.
